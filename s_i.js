@@ -1,1 +1,1 @@
-alert("hello");
+Window.alert('message');
