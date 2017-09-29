@@ -1,1 +1,1 @@
-Window.alert('message');
+Window.alert("message");
